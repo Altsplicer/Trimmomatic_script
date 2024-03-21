@@ -1,6 +1,6 @@
 # [Franco](https://github.com/altsplicer) / [***trimmomatic***]
 
-script [link](https://github.com/Altsplicer/Trimmomatic_script/blob/main/bash/Trim_script.sub)
+script [LINK](https://github.com/Altsplicer/Trimmomatic_script/blob/main/bash/Trim_script.sub)
 
 ## Overview
 #This a script used for (fastq)fq and fq.gz files to trim reads using trimmomatic based on fastqc analysis.
