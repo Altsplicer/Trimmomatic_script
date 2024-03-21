@@ -1,5 +1,7 @@
 # [Franco](https://github.com/altsplicer) / [***trimmomatic***]
 
+script [link](https://github.com/Altsplicer/Trimmomatic_script/blob/main/bash/Trim_script.sub)
+
 ## Overview
 #This a script used for (fastq)fq and fq.gz files to trim reads using trimmomatic based on fastqc analysis.
 #For a tutorial see [link](https://bioinformatics-core-shared-training.github.io/Bulk_RNAseq_Course_2021/Markdowns/S3_Trimming_Reads.html)
