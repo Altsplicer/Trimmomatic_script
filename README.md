@@ -8,7 +8,7 @@ script [LINK](https://github.com/Altsplicer/Trimmomatic_script/blob/main/bash/Tr
 
 ## Slurm script headers
 UCI uses the SLURM scheduler so you must use slurm headers to specify how and where you want the job to run. 
-You must also name the script SCRIPT_NAME.sub and then run the script using "Sbatch SCRIPT_NAME.sub" while your working directory is in location of the script being run. 
+You must also name the script SCRIPT_NAME.sub and then run the script using "Sbatch SCRIPT_NAME.sub", while you are in the working directory of the script location.
 
 For a more in depth view on a SLURM job script headers see https://rcic.uci.edu/slurm/examples.html.
 
