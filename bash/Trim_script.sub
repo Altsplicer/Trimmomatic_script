@@ -7,8 +7,7 @@
 #SBATCH --mail-type=ALL           # send you email of job status (b)egin, (e)rror, (a)bort, (s)uspend
 
 #UCI uses the SLURM scheduler so you must use slurm headers to specify how and where you want the job to run. 
-#You must also name the script SCRIPT_NAME.sub and then run the script using "Sbatch SCRIPT_NAME.sub" while your working directory is in location of the script being run. 
-
+#You must also name the script SCRIPT_NAME.sub and then run the script using "Sbatch SCRIPT_NAME.sub", while you are in the working directory of the script location.
 #For a more in depth view on a SLURM job script headers see https://rcic.uci.edu/slurm/examples.html.
 
 #Make note that this script uses the free partition but you can use your free 1000 core hours of the lab's core hours by changing the header.
